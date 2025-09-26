@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/icon/cancel-48.png</file>
+        <file>image/icon/checkmark-48.png</file>
+        <file>image/icon/fast-forward-48.png</file>
+        <file>image/icon/folder-48.png</file>
+        <file>image/icon/play-48.png</file>
+        <file>image/icon/skip-to-start-48.png</file>
+        <file>image/icon/stop-48.png</file>
+        <file>image/icon/support-48.png</file>
+        <file>image/icon/browse-folder-48.png</file>
+        <file>image/icon/code-folder-48.png</file>
+        <file>image/icon/DogeMediaPlayer-400x.png</file>
+        <file>image/icon/DogeMediaPlayer_LOGO_2.png</file>
+        <file>image/icon/DogeMediaPlayer-128x.png</file>
+        <file>image/icon/DogeMediaPlayer-256x.png</file>
+        <file>image/icon/setting-48.png</file>
+        <file>image/icon/DogeMediaPlayer_LOGO_3_null.png</file>
+        <file>image/icon/about-48.png</file>
+    </qresource>
+    <qresource prefix="/icon"/>
+</RCC>
